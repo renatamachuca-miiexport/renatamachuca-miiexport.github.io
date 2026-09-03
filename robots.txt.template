@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: TU_URL_PUBLICA/sitemap.xml
